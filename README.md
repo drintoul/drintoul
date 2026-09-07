@@ -36,7 +36,7 @@ As a CISSP, my work has included:
 - Data governance, lineage, privacy, and auditability
 - Enterprise security, retention, reliability, and operational risk
 
-At The Walt Disney Company, I built an AWS-hosted historical
+At The **Walt Disney** Company, I built an AWS-hosted historical
 vulnerability pipeline and automated correlation between internal
 vulnerability data and external threat intelligence to improve
 remediation prioritization.
@@ -46,6 +46,10 @@ remediation prioritization.
 ### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
 
 Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
+
+### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
+
+Analyzes Tableau workbook dependencies and field lineage so database administrators can refactor schemas without breaking downstream dashboards.
 
 ## Technology
 
