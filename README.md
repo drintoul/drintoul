@@ -1,53 +1,79 @@
-# David R. Rintoul
+# David R. Rintoul, CISSP
 
-AI Solutions Architect focused on agentic AI, retrieval-augmented
-generation, AI infrastructure and production automation.
+**AI Solutions Architect building agentic AI, RAG, data, and automation systems.**
 
-I build self-hosted AI systems that connect LLMs with trusted data,
-APIs and enterprise tools while emphasizing reliability, traceability,
-security and source-grounded answers.
+I design and build practical AI systems that connect language models with trusted data, APIs, and enterprise tools. My focus is on turning promising prototypes into secure, auditable, and useful systems without losing sight of privacy, governance, reliability, or operational risk.
 
-## Current Work
+## What I'm Building
 
-- Agentic AI workflows with LangGraph
-- Model Context Protocol (MCP) tools and services
-- Retrieval-augmented generation with Qdrant
-- Local LLM infrastructure using Ollama
-- Web research and evidence-validation pipelines
-- FastAPI services and Python automation
-- Docker-based AI infrastructure
+I currently operate a self-hosted agentic AI platform that combines:
 
-## Selected Technologies
+- LangGraph orchestration
+- Model Context Protocol (MCP) tools
+- Retrieval-augmented generation (RAG)
+- Qdrant vector search
+- FastAPI services
+- Ollama local inference
+- Web search and scraping
+- Source validation and citation tracking
+- Docker-based deployment
 
-**AI**
-LangGraph · MCP · RAG · Ollama · Qdrant · Embeddings
-
-**Development**
-Python · FastAPI · Flask · REST APIs
-
-**Data**
-PostgreSQL · MongoDB · Neo4j · Qdrant
-
-**Infrastructure**
-Docker · Linux · Cloudflare · GitHub Actions
+Reusable agentic workflows have reduced research tasks that previously took **2–3 hours to under 10 minutes**.
 
 ## Featured Projects
 
-### Agentic AI Platform
-Self-hosted AI research platform integrating agents, RAG, APIs,
-search, scraping and citation tracking.
+### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
 
-### Ollama Test Suite
-Automated validation and benchmarking for Ollama installations,
-models and inference performance.
+Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
 
-### Is It Canadian?
-Evidence-grounded research workflow combining web search,
-scraping, LLM analysis and source validation.
+### [Ollama Test Suite](https://github.com/drintoul/ollama-test-suite)
+
+Automated validation and performance testing for Ollama installations, model management, inference capabilities, and runtime environments.
+
+### Agentic Research Platform
+
+Self-hosted AI research architecture combining LangGraph, MCP, RAG, local inference, APIs, curated sources, and citation-backed answers.
+
+> A public reference implementation is in development.
+
+## Technology
+
+**AI & Agents**  
+LangGraph · MCP · FastMCP · RAG · Ollama · Qdrant · Embeddings
+
+**Development**  
+Python · FastAPI · Flask · Streamlit · REST APIs · JupyterLab
+
+**Data & Analytics**  
+PostgreSQL · MongoDB · Neo4j · MySQL · SQLAlchemy · Tableau · Alteryx · Dataiku
+
+**Infrastructure & DevOps**  
+Docker · Linux · AWS · GitHub Actions · CI/CD · Cloudflare Tunnels
 
 ## Background
 
-My work spans AI architecture, data platforms, automation,
-analytics and enterprise technology.
+My background spans AI architecture, enterprise data systems, security, analytics, product development, and technical program leadership.
 
-[LinkedIn](https://www.linkedin.com/in/david-rintoul/)
+Recent consulting work has included:
+
+- **Charles Schwab** — Python-based Tableau lineage and dependency analysis across hundreds of workbooks
+- **Evernorth Health Services** — rebuilt Neo4j ingestion pipelines, improving reliability from approximately 65% to 99.9%
+- **The Walt Disney Company** — AWS-hosted vulnerability data pipeline and threat-intelligence correlation automation
+
+Earlier in my career, I held product, program, and alliance leadership roles at **Microsoft** and **Siemens**.
+
+An earlier chapter of my career involved safety-critical commercial diving and hyperbaric operations. That experience strongly influenced how I think about reliability, risk, procedures, and operational design.
+
+## Education & Credentials
+
+- **B.A.Sc., Computer Engineering** — University of Waterloo
+- **CISSP** — Certified Information Systems Security Professional
+- **AWS Certified AI Practitioner**
+- **CDMP** — Certified Data Management Professional
+- **CAIP** — Certified Artificial Intelligence Practitioner
+
+## Elsewhere
+
+[Website](https://davidrintoul.info) ·
+[LinkedIn](https://www.linkedin.com/in/david-rintoul/) ·
+[Resume](https://davidrintoul.info/resume.pdf)
