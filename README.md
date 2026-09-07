@@ -24,6 +24,25 @@ I currently operate a self-hosted agentic AI platform that combines:
 
 Reusable agentic workflows have reduced research tasks that previously took **2–3 hours to under 10 minutes**.
 
+## Security & Governance
+
+Security is part of the architecture, not a separate compliance step.
+
+As a CISSP, my work has included:
+
+- Vulnerability management and threat-intelligence integration
+- Security-conscious AI architecture and self-hosted inference
+- Privacy and sensitive-data protection
+- Permissioned access to tools and data sources
+- Data governance, lineage, and auditability
+- Operational risk and reliability engineering
+- Designing systems around enterprise security and data-retention requirements
+
+At The Walt Disney Company, I built an AWS-hosted historical
+vulnerability pipeline and automated correlation between internal
+vulnerability data and external threat intelligence to improve
+remediation prioritization.
+
 ## Featured Projects
 
 ### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
