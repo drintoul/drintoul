@@ -26,16 +26,6 @@ Reusable agentic workflows have reduced research tasks that previously took **2â
 
 Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
 
-### [Ollama Test Suite](https://github.com/drintoul/ollama-test-suite)
-
-Automated validation and performance testing for Ollama installations, model management, inference capabilities, and runtime environments.
-
-### Agentic Research Platform
-
-Self-hosted AI research architecture combining LangGraph, MCP, RAG, local inference, APIs, curated sources, and citation-backed answers.
-
-> A public reference implementation is in development.
-
 ## Technology
 
 **AI & Agents**  
