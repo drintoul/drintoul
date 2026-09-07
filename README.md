@@ -54,6 +54,10 @@ Evidence-grounded AI research workflow for determining whether a company qualifi
 **AI & Agents**  
 LangGraph · MCP · FastMCP · RAG · Ollama · Qdrant · Embeddings
 
+**Security & Governance**  
+CISSP · Vulnerability Management · Threat Intelligence · Data Governance ·
+Privacy · Auditability · Operational Risk
+
 **Development**  
 Python · FastAPI · Flask · Streamlit · REST APIs · JupyterLab
 
