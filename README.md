@@ -1,8 +1,12 @@
 # David R. Rintoul, CISSP
 
-**AI Solutions Architect building agentic AI, RAG, data, and automation systems.**
+**AI Solutions Architect building secure agentic AI, RAG, data, and automation systems.**
 
-I design and build practical AI systems that connect language models with trusted data, APIs, and enterprise tools. My focus is on turning promising prototypes into secure, auditable, and useful systems without losing sight of privacy, governance, reliability, or operational risk.
+I combine hands-on AI engineering with cybersecurity, data governance,
+and enterprise architecture experience. I build systems that connect
+language models with trusted data, APIs, and enterprise tools while
+treating security, privacy, auditability, and operational risk as
+architecture requirements rather than afterthoughts.
 
 ## What I'm Building
 
