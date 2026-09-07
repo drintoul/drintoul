@@ -36,7 +36,7 @@ As a CISSP, my work has included:
 - Data governance, lineage, privacy, and auditability
 - Enterprise security, retention, reliability, and operational risk
 
-At The **Walt Disney** Company, I built an AWS-hosted historical
+At **The Walt Disney Company**, I built an AWS-hosted historical
 vulnerability pipeline and automated correlation between internal
 vulnerability data and external threat intelligence to improve
 remediation prioritization.
