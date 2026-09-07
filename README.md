@@ -31,12 +31,10 @@ Security is part of the architecture, not a separate compliance step.
 As a CISSP, my work has included:
 
 - Vulnerability management and threat-intelligence integration
-- Security-conscious AI architecture and self-hosted inference
-- Privacy and sensitive-data protection
+- Secure, self-hosted AI architecture for sensitive data
 - Permissioned access to tools and data sources
-- Data governance, lineage, and auditability
-- Operational risk and reliability engineering
-- Designing systems around enterprise security and data-retention requirements
+- Data governance, lineage, privacy, and auditability
+- Enterprise security, retention, reliability, and operational risk
 
 At The Walt Disney Company, I built an AWS-hosted historical
 vulnerability pipeline and automated correlation between internal
