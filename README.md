@@ -67,17 +67,25 @@ Docker · Linux · AWS · GitHub Actions · CI/CD · Cloudflare Tunnels
 
 ## Background
 
-My background spans AI architecture, enterprise data systems, security, analytics, product development, and technical program leadership.
+My background spans AI architecture, cybersecurity, enterprise data systems,
+analytics, product development, and technical program leadership.
 
-Recent consulting work has included:
+Earlier in my career, I held product, program, and alliance leadership roles
+at **Microsoft** and **Siemens**.
 
-- **Charles Schwab** — Python-based Tableau lineage and dependency analysis across hundreds of workbooks
-- **Evernorth Health Services** — rebuilt Neo4j ingestion pipelines, improving reliability from approximately 65% to 99.9%
-- **The Walt Disney Company** — AWS-hosted vulnerability data pipeline and threat-intelligence correlation automation
+I then spent nearly a decade in safety-critical commercial diving and
+hyperbaric operations, where reliability, procedure, training, compliance,
+and operational risk were everyday responsibilities.
 
-Earlier in my career, I held product, program, and alliance leadership roles at **Microsoft** and **Siemens**.
+More recently, my consulting work has included:
 
-An earlier chapter of my career involved safety-critical commercial diving and hyperbaric operations. That experience strongly influenced how I think about reliability, risk, procedures, and operational design.
+- **Charles Schwab** — Python-based Tableau lineage and dependency
+  analysis across hundreds of workbooks
+- **Evernorth Health Services** — rebuilt Neo4j ingestion pipelines,
+  improving reliability from approximately 65% to 99.9%
+
+Today, I apply that combination of enterprise technology, security,
+governance, and operational-risk experience to building practical AI systems.
 
 ## Education & Credentials
 
