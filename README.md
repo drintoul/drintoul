@@ -47,6 +47,10 @@ remediation prioritization.
 
 Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
 
+### [RAG Demo](https://github.com/drintoul/rag-demo)
+
+A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
+
 ### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
 
 Analyzes Tableau workbook dependencies and field lineage so database administrators can refactor schemas without breaking downstream dashboards.
