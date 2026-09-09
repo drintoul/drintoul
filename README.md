@@ -47,7 +47,7 @@ remediation prioritization.
 
 Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
 
-### [RAG Demo](https://github.com/drintoul/rag-demo)
+### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
 
 A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
 
