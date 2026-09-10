@@ -1,6 +1,6 @@
 # David R. Rintoul, CISSP
 
-**AI Solutions Architect building secure, self-hosted agentic AI and RAG systems grounded in trusted data and verifiable sources.**
+**AI Solutions Architect building secure, self-hosted agentic AI and RAG systems grounded in trusted data and attributable sources.**
 
 I combine hands-on AI engineering with cybersecurity, data governance,
 and enterprise architecture experience. I build systems that connect
