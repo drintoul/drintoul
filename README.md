@@ -24,6 +24,20 @@ I currently operate a self-hosted agentic AI platform that combines:
 
 Reusable agentic workflows have reduced research tasks that previously took **2–3 hours to under 10 minutes**.
 
+## Featured Projects
+
+### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
+
+Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
+
+### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
+
+A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
+
+### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
+
+Analyzes Tableau workbook dependencies and field metadata so database teams can assess downstream impact before refactoring schemas.
+
 ## Security & Governance
 
 Security is part of the architecture, not a separate compliance step.
@@ -40,20 +54,6 @@ At **The Walt Disney Company**, I built an AWS-hosted historical
 vulnerability pipeline and automated correlation between internal
 vulnerability data and external threat intelligence to improve
 remediation prioritization.
-
-## Featured Projects
-
-### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
-
-Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
-
-### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
-
-A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
-
-### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
-
-Analyzes Tableau workbook dependencies and field lineage so database administrators can refactor schemas without breaking downstream dashboards.
 
 ## Technology
 
