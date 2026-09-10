@@ -1,6 +1,6 @@
 # David R. Rintoul, CISSP
 
-**AI Solutions Architect building secure agentic AI, RAG, data, and automation systems.**
+**AI Solutions Architect building secure, self-hosted agentic AI and RAG systems grounded in trusted data and verifiable sources.**
 
 I combine hands-on AI engineering with cybersecurity, data governance,
 and enterprise architecture experience. I build systems that connect
@@ -8,9 +8,23 @@ language models with trusted data, APIs, and enterprise tools while
 treating security, privacy, auditability, and operational risk as
 architecture requirements rather than afterthoughts.
 
+## Featured Projects
+
+### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
+
+Evidence-grounded agentic AI that searches and scrapes authoritative sources, uses an LLM for classification, then deterministically verifies its cited evidence before accepting the result.
+
+### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
+
+A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
+
+### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
+
+Built to recover dependency visibility from an enterprise Tableau environment where hundreds of unmanaged, unversioned workbooks had accumulated on network shares, allowing database teams to assess the downstream impact of schema changes before breaking dashboards.
+
 ## What I'm Building
 
-I currently operate a self-hosted agentic AI platform that combines:
+I designed, built, and operate a self-hosted agentic AI platform used for real-world travel research and planning. It combines:
 
 - LangGraph orchestration
 - Model Context Protocol (MCP) tools
@@ -23,20 +37,6 @@ I currently operate a self-hosted agentic AI platform that combines:
 - Docker-based deployment
 
 Reusable agentic workflows have reduced research tasks that previously took **2–3 hours to under 10 minutes**.
-
-## Featured Projects
-
-### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
-
-Evidence-grounded AI research workflow for determining whether a company qualifies as Canadian using web search, scraping, source validation, LLM analysis, and confidence scoring.
-
-### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
-
-A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
-
-### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
-
-Built to recover dependency visibility from an enterprise Tableau environment where hundreds of unmanaged, unversioned workbooks had accumulated on network shares, allowing database teams to assess the downstream impact of schema changes before breaking dashboards.
 
 ## Security & Governance
 
