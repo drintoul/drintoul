@@ -36,7 +36,7 @@ A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and so
 
 ### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
 
-Analyzes unmanaged Tableau workbooks to identify database dependencies and assess the downstream impact of schema changes in environments where dashboards lack centralized governance and version control.
+Built to recover dependency visibility from an enterprise Tableau environment where hundreds of unmanaged, unversioned workbooks had accumulated on network shares, allowing database teams to assess the downstream impact of schema changes before breaking dashboards.
 
 ## Security & Governance
 
