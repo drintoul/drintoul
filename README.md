@@ -10,6 +10,10 @@ architecture requirements rather than afterthoughts.
 
 ## Featured Projects
 
+### [Web Research Stack](https://github.com/drintoul/web-research)
+
+
+
 ### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
 
 Evidence-grounded agentic AI that searches and scrapes authoritative sources, uses an LLM for classification, then deterministically verifies its cited evidence before accepting the result.
