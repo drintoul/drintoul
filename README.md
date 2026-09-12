@@ -12,7 +12,7 @@ architecture requirements rather than afterthoughts.
 
 ### [Web Research Stack](https://github.com/drintoul/web-research)
 
-
+Self-hosted web research platform combining Firecrawl, SearXNG, Ollama and Playwright with unified REST and MCP APIs
 
 ### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
 
