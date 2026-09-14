@@ -112,3 +112,30 @@ governance, and operational-risk experience to building practical AI systems.
 [Website](https://davidrintoul.info) ·
 [LinkedIn](https://www.linkedin.com/in/david-rintoul/) ·
 [Resume](https://davidrintoul.info/resume.pdf)
+
+### Credentials
+
+**AI, Security & Data**
+
+![CISSP](https://img.shields.io/badge/CISSP-ISC2-0F766E?style=flat-square)
+![CDMP](https://img.shields.io/badge/CDMP-DAMA-0F766E?style=flat-square)
+![CAIP](https://img.shields.io/badge/CAIP-Certified%20AI%20Practitioner-0F766E?style=flat-square)
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-0F766E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**Cloud, Analytics & Delivery**
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-0F766E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Tableau Certified Data Analyst](https://img.shields.io/badge/Tableau-Certified%20Data%20Analyst-0F766E?style=flat-square&logo=tableau&logoColor=white)
+![Alteryx Advanced Designer](https://img.shields.io/badge/Alteryx-Advanced%20Designer-0F766E?style=flat-square)
+![CSPO](https://img.shields.io/badge/CSPO-Scrum%20Alliance-0F766E?style=flat-square)
+
+**Engineering**
+
+![P.Eng. Ontario](https://img.shields.io/badge/P.Eng.-Ontario%20%28Non--Practising%29-334155?style=flat-square)
+
+**Professional Education**
+
+![MIT](https://img.shields.io/badge/MIT-Digital%20Transformation-0369A1?style=flat-square)
+![Wharton](https://img.shields.io/badge/Wharton-Business%20Analytics-0369A1?style=flat-square)
+![IBM](https://img.shields.io/badge/IBM-Data%20Science-0369A1?style=flat-square&logo=ibm&logoColor=white)
+![DataCamp](https://img.shields.io/badge/DataCamp-EU%20AI%20Act%20%26%20GDPR-0369A1?style=flat-square&logo=datacamp&logoColor=white)
