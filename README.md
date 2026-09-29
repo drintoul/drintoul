@@ -10,7 +10,7 @@ architecture requirements rather than afterthoughts.
 
 ## Featured Projects
 
-### [Web Research Stack](https://github.com/drintoul/web-research)
+### Web Research Stack
 
 Self-hosted web research platform combining Firecrawl, SearXNG, Ollama and Playwright with unified REST and MCP APIs
 
