@@ -8,6 +8,8 @@ language models with trusted data, APIs, and enterprise tools while
 treating security, privacy, auditability, and operational risk as
 architecture requirements rather than afterthoughts.
 
+*It's about making an impact — and impact scales through others. That's why I build AI systems inside organizations rather than demos in a garage.*
+
 ## Featured Projects
 
 ### [Firecrawl Extended](https://github.com/drintoul/firecrawl-extended)
@@ -26,9 +28,17 @@ A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and so
 
 Built to recover dependency visibility from an enterprise Tableau environment where hundreds of unmanaged, unversioned workbooks had accumulated on network shares, allowing database teams to assess the downstream impact of schema changes before breaking dashboards.
 
+### [Exploratory Data Analyzer](https://github.com/drintoul/eda)
+
+Upload a CSV or Excel file and explore it in your browser — column profiles, missing-value analysis, distributions, comparisons, and correlations. No code required; runs fully local via Docker, with an end-to-end test suite.
+
+### [Neighbourhood Similarity Finder](https://github.com/drintoul/neighbours)
+
+Enter an address and find nearby neighbourhoods with a similar mix of amenities — restaurants, parks, waterfront, transit — ranked by cosine similarity over OpenStreetMap POI profiles. No API keys, no accounts, no quotas.
+
 ## What I'm Building
 
-I designed, built, and operate a self-hosted agentic AI platform used for real-world travel research and planning. It combines:
+I designed, built, and operate a self-hosted agentic AI platform used for real-world travel research and planning — the architecture is documented in [voyages-by-dave](https://github.com/drintoul/voyages-by-dave). It combines:
 
 - LangGraph orchestration
 - Model Context Protocol (MCP) tools
