@@ -105,6 +105,10 @@ More recently, my consulting work has included:
   analysis across hundreds of workbooks
 - **Evernorth Health Services** — rebuilt Neo4j ingestion pipelines,
   improving reliability from approximately 65% to 99.9%
+- **The Walt Disney Company** — built an AWS-hosted pipeline correlating
+  internal vulnerability scans with external threat intelligence under strict
+  data-retention requirements, improving remediation prioritization and saving
+  10+ hours of manual work per month
 
 Today, I apply that combination of enterprise technology, security,
 governance, and operational-risk experience to building practical AI systems.
