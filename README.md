@@ -12,29 +12,29 @@ architecture requirements rather than afterthoughts.
 
 ## Featured Projects
 
-### [Firecrawl Extended](https://github.com/drintoul/firecrawl-extended)
-
-Self-hosted web research platform combining Firecrawl, SearXNG, Ollama and Playwright with unified REST and MCP APIs
-
 ### [Is It Canadian?](https://github.com/drintoul/is-it-canadian)
 
 Evidence-grounded agentic AI that searches and scrapes authoritative sources, uses an LLM for classification, then deterministically verifies its cited evidence before accepting the result.
 
-### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
+### [Firecrawl Extended](https://github.com/drintoul/firecrawl-extended)
 
-A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
-
-### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
-
-Built to recover dependency visibility from an enterprise Tableau environment where hundreds of unmanaged, unversioned workbooks had accumulated on network shares, allowing database teams to assess the downstream impact of schema changes before breaking dashboards.
+Self-hosted web research platform combining Firecrawl, SearXNG, Ollama and Playwright with unified REST and MCP APIs
 
 ### [Exploratory Data Analyzer](https://github.com/drintoul/eda)
 
 Upload a CSV or Excel file and explore it in your browser — column profiles, missing-value analysis, distributions, comparisons, and correlations. No code required; runs fully local via Docker, with an end-to-end test suite.
 
+### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
+
+A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
+
 ### [Neighbourhood Similarity Finder](https://github.com/drintoul/neighbours)
 
 Enter an address and find nearby neighbourhoods with a similar mix of amenities — restaurants, parks, waterfront, transit — ranked by cosine similarity over OpenStreetMap POI profiles. No API keys, no accounts, no quotas.
+
+### [Tableau XML Parse](https://github.com/drintoul/tableau-xml-parse)
+
+Built to recover dependency visibility from an enterprise Tableau environment where hundreds of unmanaged, unversioned workbooks had accumulated on network shares, allowing database teams to assess the downstream impact of schema changes before breaking dashboards.
 
 ## What I'm Building
 
@@ -71,20 +71,20 @@ remediation prioritization.
 
 ## Technology
 
-**AI & Agents**  
+**AI & Agents**
 LangGraph · MCP · FastMCP · RAG · Ollama · Qdrant · Embeddings
 
-**Security & Governance**  
+**Security & Governance**
 CISSP · Vulnerability Management · Threat Intelligence · Data Governance ·
 Privacy · Auditability · Operational Risk
 
-**Development**  
+**Development**
 Python · FastAPI · Flask · Streamlit · REST APIs · JupyterLab
 
-**Data & Analytics**  
+**Data & Analytics**
 PostgreSQL · MongoDB · Neo4j · MySQL · SQLAlchemy · Tableau · Alteryx · Dataiku
 
-**Infrastructure & DevOps**  
+**Infrastructure & DevOps**
 Docker · Linux · AWS · GitHub Actions · CI/CD · Cloudflare Tunnels
 
 ## Background
