@@ -2,8 +2,7 @@
 
 **AI Solutions Architect building secure, self-hosted agentic AI and RAG systems for production use.**
 
-It's about making an impact — and impact scales through others. That's why I
-build AI systems inside organizations: language models connected to trusted
+I build AI systems inside organizations: language models connected to trusted
 data, APIs, and enterprise tools, put into production where people depend on
 them, and designed so every answer can be traced back to its sources.
 
@@ -20,7 +19,7 @@ Evidence-grounded agentic AI that searches and scrapes authoritative sources, us
 
 ### [Local AI Stack](https://github.com/drintoul/local-ai-stack)
 
-Self-hosted local AI stack in a single Docker Compose deployment: Ollama model inference, the Firecrawl Extended gateway (scrape, crawl, search, and Playwright browser automation, exposed to agents over MCP), SearXNG search, and Langfuse observability — no outbound LLM calls.
+Self-hosted local AI stack in a single Docker Compose deployment: Ollama model inference, web scraping and Playwright browser automation exposed to agents over MCP, SearXNG search, and Langfuse observability — no outbound LLM calls.
 
 ### [Neighbourhood Similarity Finder](https://github.com/drintoul/neighbours)
 
