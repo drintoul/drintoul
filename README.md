@@ -1,14 +1,16 @@
 # David R. Rintoul, CISSP
 
-**AI Solutions Architect building secure, self-hosted agentic AI and RAG systems grounded in trusted data and attributable sources.**
+**AI Solutions Architect building secure, self-hosted agentic AI and RAG systems for production use.**
 
-I combine hands-on AI engineering with cybersecurity, data governance,
-and enterprise architecture experience. I build systems that connect
-language models with trusted data, APIs, and enterprise tools while
-treating security, privacy, auditability, and operational risk as
-architecture requirements rather than afterthoughts.
+It's about making an impact — and impact scales through others. That's why I
+build AI systems inside organizations: language models connected to trusted
+data, APIs, and enterprise tools, put into production where people depend on
+them, and designed so every answer can be traced back to its sources.
 
-*It's about making an impact — and impact scales through others. That's why I build AI systems inside organizations rather than demos in a garage.*
+What sets the work apart is the combination behind it — hands-on AI
+engineering, CISSP security practice, and enterprise data and architecture
+experience — so security, privacy, and auditability are design requirements,
+not compliance steps added later.
 
 ## Featured Projects
 
@@ -19,14 +21,6 @@ Evidence-grounded agentic AI that searches and scrapes authoritative sources, us
 ### [Local AI Stack](https://github.com/drintoul/local-ai-stack)
 
 Self-hosted, zero-trust local AI engine unifying dual-GPU model inference (Ollama), multi-database persistence (Qdrant, PostgreSQL, Neo4j, Redis), and containerized web ingestion (Firecrawl & Playwright) within a single Docker Compose stack.
-
-### [Exploratory Data Analyzer](https://github.com/drintoul/eda)
-
-Upload a CSV or Excel file and explore it in your browser — column profiles, missing-value analysis, distributions, comparisons, and correlations. No code required; runs fully local via Docker, with an end-to-end test suite.
-
-### [Retrieval Augmented Generation (RAG)](https://github.com/drintoul/rag)
-
-A self-hosted RAG pipeline with semantic search, cross-encoder reranking, and source attribution — built to show how the pieces fit together and what it takes to secure them.
 
 ### [Neighbourhood Similarity Finder](https://github.com/drintoul/neighbours)
 
