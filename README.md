@@ -20,7 +20,7 @@ Evidence-grounded agentic AI that searches and scrapes authoritative sources, us
 
 ### [Local AI Stack](https://github.com/drintoul/local-ai-stack)
 
-Self-hosted, zero-trust local AI engine unifying dual-GPU model inference (Ollama), multi-database persistence (Qdrant, PostgreSQL, Neo4j, Redis), and containerized web ingestion (Firecrawl & Playwright) within a single Docker Compose stack.
+Self-hosted local AI stack in a single Docker Compose deployment: Ollama model inference, the Firecrawl Extended gateway (scrape, crawl, search, and Playwright browser automation, exposed to agents over MCP), SearXNG search, and Langfuse observability — no outbound LLM calls.
 
 ### [Neighbourhood Similarity Finder](https://github.com/drintoul/neighbours)
 
