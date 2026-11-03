@@ -16,7 +16,7 @@ architecture requirements rather than afterthoughts.
 
 Evidence-grounded agentic AI that searches and scrapes authoritative sources, uses an LLM for classification, then deterministically verifies its cited evidence before accepting the result.
 
-### [Local AI Stack (`local-ai-stack`)](https://github.com/drintoul/local-ai-stack)
+### [Local AI Stack](https://github.com/drintoul/local-ai-stack)
 
 Self-hosted, zero-trust local AI engine unifying dual-GPU model inference (Ollama), multi-database persistence (Qdrant, PostgreSQL, Neo4j, Redis), and containerized web ingestion (Firecrawl & Playwright) within a single Docker Compose stack.
 
