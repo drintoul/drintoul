@@ -21,6 +21,10 @@ Evidence-grounded agentic AI that searches and scrapes authoritative sources, us
 
 Self-hosted local AI stack in a single Docker Compose deployment: Ollama model inference, web scraping and Playwright browser automation exposed to agents over MCP, SearXNG search, and Langfuse observability — no outbound LLM calls.
 
+### [Chatbot Concierge](https://github.com/drintoul/chatbot-concierge)
+
+Self-hosted RAG chatbot that indexes a website once — scrape, chunk, embed, and store — then answers visitor questions from that persistent corpus through two checkpointed LangGraph workflows, using local Ollama models and a self-hosted Firecrawl pipeline. It includes an embeddable chat widget and an audit log of every question and outcome.
+
 ### [Neighbourhood Similarity Finder](https://github.com/drintoul/neighbours)
 
 Enter an address and find nearby neighbourhoods with a similar mix of amenities — restaurants, parks, waterfront, transit — ranked by cosine similarity over OpenStreetMap POI profiles. No API keys, no accounts, no quotas.
